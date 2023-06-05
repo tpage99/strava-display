@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Display Stats</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Display my activity stats" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A simple app to work with the Tidbyt Display
         </p>
       </main>
 
